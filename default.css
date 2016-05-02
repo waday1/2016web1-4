@@ -1,5 +1,16 @@
-<head>
-<style>
-@import url("css/default.css");
-</style>
-</head>
+@charset"UTF-8"
+h1 span{
+  color:#3399cc;
+}
+h2{
+  font-size:1.75em;
+  color:#3399cc;
+}
+p{
+  font-size:1.75em;
+  color:#3399cc;
+}
+li{
+  font-size:1.75em;
+  color:#3399cc;
+}
