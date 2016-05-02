@@ -16,14 +16,12 @@ li{
 
 #lead
 {
-  border-top: #330000;
+  color: #ff0000;
   font-size:1.50em;
-  text-align: center;
 }
 
 .greeting
 {
-   border-top: #330000;
+  color: #00ff00;
   font-size:1.50em;
-  text-align: center;
 }
