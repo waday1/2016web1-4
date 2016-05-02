@@ -4,21 +4,7 @@ h1 {
 }
 h2 span
 {
-  color:#ff22ff;
-}
-
-#lead
-{
-
-    border-top: #6fbb9a 1px dotted;
-    text-align: center;
-
-}
-
-.greeting
-{
-  color: #00ff00;
-  font-size:1.50em;
+  color:#ff0000;
 }
 
 p{
@@ -30,5 +16,16 @@ li{
   color:#330000;
 }
 
+#lead
+{
+    border-top: #6fbb9a 1px dotted;
+    text-align: center;
 
+}
+
+.greeting
+{
+  color: #00ff00;
+  font-size:1.50em;
+}
 
