@@ -11,8 +11,16 @@ li{
   color:#3399cc;
 }
 
-#lead{
+#lead
+{
   border-top: #3399cc;
+  font-size:1.50em;
+  text-align: center;
+}
+
+.greeting
+{
+   border-top: #3399cc;
   font-size:1.50em;
   text-align: center;
 }
