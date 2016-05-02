@@ -2,10 +2,6 @@
 h1 span{
   color:#3399cc;
 }
-h2{
-  font-size:1.75em;
-  color:#3399cc;
-}
 p{
   font-size:1.75em;
   color:#3399cc;
@@ -13,4 +9,10 @@ p{
 li{
   font-size:1.75em;
   color:#3399cc;
+}
+
+#lead{
+  border-top: #3399cc;
+  font-size:1.50em;
+  text-align: center;
 }
