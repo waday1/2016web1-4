@@ -8,8 +8,10 @@ h2 span{
 
 #lead
 {
-  color: #ff0000;
-  font-size:1.50em;
+
+    border-top: #6fbb9a 1px dotted;
+    text-align: center;
+
 }
 
 .greeting
